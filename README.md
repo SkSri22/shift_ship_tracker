@@ -1,6 +1,6 @@
-# SwiftShip Tracker — Autonomous AI Parcel Management CRM
+# SwiftShip Tracker 
 
-**SmartBridge Capstone Project** | *Vetri Thiran Payirchi Thittam (TNSDC)*  
+**SmartBridge Capstone Project**   
 **Institution:** Jaya Engineering College and Technology  
 **Team ID:** `SWTID-2026-8823`  
 
@@ -17,7 +17,7 @@
 
 **Click the link below to view the live project demonstration:**
 
-👉 [**Watch the SwiftShip Tracker Demo on YouTube**](YOUR_YOUTUBE_UNLISTED_LINK_HERE)
+👉 [**https://youtu.be/p2jypylErrs?si=Nl_r8rPP5xV1-Sq9**](YOUR_YOUTUBE_UNLISTED_LINK_HERE)
 
 ---
 
