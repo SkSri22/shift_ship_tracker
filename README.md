@@ -58,7 +58,7 @@
 
 ---
 
-> ### 🚀 Phase-by-Phase Implementation Journey
+# 🚀 Phase-by-Phase Implementation Journey
 
 # Phase 1: Requirement Analysis & Planning
 
