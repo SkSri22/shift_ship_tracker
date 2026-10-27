@@ -17,7 +17,8 @@
 
 **Click the link below to view the live project demonstration:**
 
-👉 [**https://youtu.be/p2jypylErrs?si=Nl_r8rPP5xV1-Sq9**](YOUR_YOUTUBE_UNLISTED_LINK_HERE)
+👉 [**Watch the SwiftShip Tracker Demo on YouTube**](https://youtu.be/p2jypylErrs?si=7TZN_PrE06JbJhgz)
+
 
 ---
 
