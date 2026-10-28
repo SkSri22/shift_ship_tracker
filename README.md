@@ -1,6 +1,6 @@
 # SwiftShip Tracker 
 
-**SmartBridge Capstone Project**   
+**SmartBridge Project**   
 **Institution:** Jaya Engineering College and Technology  
 **Team ID:** `SWTID-2026-8823`  
 
